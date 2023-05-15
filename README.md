@@ -1,6 +1,6 @@
 # performance-testing-project-using-jmeter
-I’ve completed performance test on frequently used API for a test App https://thetestingworldapi.com.\
-Test executed for the below mentioned scenario in server https://thetestingworldapi.com.\
+I’ve completed performance test on frequently used API for a test App https://thetestingworldapi.com.__ 
+Test executed for the below mentioned scenario in server https://thetestingworldapi.com.  
 
 100 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 90 And Total Concurrent API requested: 6000.
 500 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 146 And Total Concurrent API requested: 30000.
